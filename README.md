@@ -1,7 +1,4 @@
 # Explorify
-Created this tour and travel dynamic website with CSS and JavaScript using React library.<br>
-Live link : https://explor-ify.netlify.app/ <br>
-
 Key features of "Explorify" website developed using React:
 1. **Structured Components:** "Explorify" is built with React, featuring well-organized components that enhance code readability and maintainability. <br>
 2. **User-Friendly Navigation:** The website boasts a seamless navigation experience with tabs for Home, About, Services, Contact, and Signup, allowing users to easily explore different sections.<br>
